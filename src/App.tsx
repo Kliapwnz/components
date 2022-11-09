@@ -8,7 +8,7 @@ function App() {
     return (
         <>
             <Header title={"New BODY"}/>
-            <Body/>
+            <Body titleForBody={"New BODY"}/>
             <Footer/>
         </>
 
